@@ -1,0 +1,8 @@
+repo="compose-munge"
+tag="1.0.0"
+name="compose-munge"
+workdir='/Users/michael/Dropbox (Personal)/Work (Documentacion)/ECS Digital/Projects/ECS/BCGDV Tracr/tracr-terraform/terraconf/stack/test-stack'
+
+# NB: 
+#  - Command substitution can be used in variables here - try to use "$(this format)" instead of `backticks` if possible
+#  - Mount/Volume paths used here MUST be absolute - use eg. "$(realpath SYMLINK_PATH)" if you don't want to hardcode them
